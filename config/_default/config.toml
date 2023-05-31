@@ -1,4 +1,4 @@
 baseURL = "https://quangdai.notion.site/Notion-DoIt-8ee76b80565748188e88a0d63b87d13e"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "DoIt"
